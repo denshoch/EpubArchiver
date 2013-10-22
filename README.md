@@ -47,7 +47,7 @@ ContainerDocument is an EpubArchiver's component which creates `container.xml`.
 
 ## Copyright
 
-Copyright (c) 2013, Dencho Channel  
+Copyright (c) 2013, Densho Channel  
 <http://densho.hatenablog.com/>  
 All rights reserved.
 
