@@ -1,0 +1,25 @@
+{
+    "name": "denshoch/epubarchiver",
+    "homepage": "http://conv.denshochan.com/",
+    "type": "library",
+    "keywords": ["EPUB", "ZIP"],
+    "version": "0.1.0",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Densho Channel",
+            "homepage": "http://densho.hatenablog.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "symfony/filesystem": "2.3.6",
+        "symfony/finder": "2.3.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": { "Denshoch\\": "src/" }
+    }
+}
